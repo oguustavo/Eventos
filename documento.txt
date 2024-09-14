@@ -1,1 +1,2 @@
 criei as pastas do mvc
+instalamos as dependências: npm install dotenv mysql2 express-session bcrypt sequelize
