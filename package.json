@@ -1,0 +1,20 @@
+{
+  "name": "eventos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oguustavo/Eventos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oguustavo/Eventos/issues"
+  },
+  "homepage": "https://github.com/oguustavo/Eventos#readme"
+}
